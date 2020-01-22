@@ -1,0 +1,10 @@
+C:\Users\Sergiy\Desktop\поршень\SolidFormsApp1\SolidFormsApp1\bin\Debug\SolidFormsApp1.exe.config
+C:\Users\Sergiy\Desktop\поршень\SolidFormsApp1\SolidFormsApp1\bin\Debug\SolidFormsApp1.exe
+C:\Users\Sergiy\Desktop\поршень\SolidFormsApp1\SolidFormsApp1\bin\Debug\SolidFormsApp1.pdb
+C:\Users\Sergiy\Desktop\поршень\SolidFormsApp1\SolidFormsApp1\obj\Debug\SolidFormsApp1.csprojAssemblyReference.cache
+C:\Users\Sergiy\Desktop\поршень\SolidFormsApp1\SolidFormsApp1\obj\Debug\SolidFormsApp1.Form1.resources
+C:\Users\Sergiy\Desktop\поршень\SolidFormsApp1\SolidFormsApp1\obj\Debug\SolidFormsApp1.Properties.Resources.resources
+C:\Users\Sergiy\Desktop\поршень\SolidFormsApp1\SolidFormsApp1\obj\Debug\SolidFormsApp1.csproj.GenerateResource.cache
+C:\Users\Sergiy\Desktop\поршень\SolidFormsApp1\SolidFormsApp1\obj\Debug\SolidFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Sergiy\Desktop\поршень\SolidFormsApp1\SolidFormsApp1\obj\Debug\SolidFormsApp1.exe
+C:\Users\Sergiy\Desktop\поршень\SolidFormsApp1\SolidFormsApp1\obj\Debug\SolidFormsApp1.pdb
