@@ -1,0 +1,20 @@
+C:\Users\Sergiy\Desktop\Курсова\WindowsFormsSOLIDWORKSApp17\WindowsFormsSOLIDWORKSApp17\bin\Debug\WindowsFormsSOLIDWORKSApp17.exe.config
+C:\Users\Sergiy\Desktop\Курсова\WindowsFormsSOLIDWORKSApp17\WindowsFormsSOLIDWORKSApp17\bin\Debug\WindowsFormsSOLIDWORKSApp17.exe
+C:\Users\Sergiy\Desktop\Курсова\WindowsFormsSOLIDWORKSApp17\WindowsFormsSOLIDWORKSApp17\bin\Debug\WindowsFormsSOLIDWORKSApp17.pdb
+C:\Users\Sergiy\Desktop\Курсова\WindowsFormsSOLIDWORKSApp17\WindowsFormsSOLIDWORKSApp17\obj\Debug\WindowsFormsSOLIDWORKSApp17.csprojAssemblyReference.cache
+C:\Users\Sergiy\Desktop\Курсова\WindowsFormsSOLIDWORKSApp17\WindowsFormsSOLIDWORKSApp17\obj\Debug\WindowsFormsSOLIDWORKSApp17.Form1.resources
+C:\Users\Sergiy\Desktop\Курсова\WindowsFormsSOLIDWORKSApp17\WindowsFormsSOLIDWORKSApp17\obj\Debug\WindowsFormsSOLIDWORKSApp17.Properties.Resources.resources
+C:\Users\Sergiy\Desktop\Курсова\WindowsFormsSOLIDWORKSApp17\WindowsFormsSOLIDWORKSApp17\obj\Debug\WindowsFormsSOLIDWORKSApp17.csproj.GenerateResource.cache
+C:\Users\Sergiy\Desktop\Курсова\WindowsFormsSOLIDWORKSApp17\WindowsFormsSOLIDWORKSApp17\obj\Debug\WindowsFormsSOLIDWORKSApp17.csproj.CoreCompileInputs.cache
+C:\Users\Sergiy\Desktop\Курсова\WindowsFormsSOLIDWORKSApp17\WindowsFormsSOLIDWORKSApp17\obj\Debug\WindowsFormsSOLIDWORKSApp17.exe
+C:\Users\Sergiy\Desktop\Курсова\WindowsFormsSOLIDWORKSApp17\WindowsFormsSOLIDWORKSApp17\obj\Debug\WindowsFormsSOLIDWORKSApp17.pdb
+C:\Users\Sergiy\Desktop\KURSOVA\Автоматизована побудова деталі\WindowsFormsSOLIDWORKSApp17\WindowsFormsSOLIDWORKSApp17\obj\Debug\WindowsFormsSOLIDWORKSApp17.csprojAssemblyReference.cache
+C:\Users\Sergiy\Desktop\KURSOVA\Автоматизована побудова деталі\WindowsFormsSOLIDWORKSApp17\WindowsFormsSOLIDWORKSApp17\obj\Debug\WindowsFormsSOLIDWORKSApp17.Form1.resources
+C:\Users\Sergiy\Desktop\KURSOVA\Автоматизована побудова деталі\WindowsFormsSOLIDWORKSApp17\WindowsFormsSOLIDWORKSApp17\obj\Debug\WindowsFormsSOLIDWORKSApp17.Properties.Resources.resources
+C:\Users\Sergiy\Desktop\KURSOVA\Автоматизована побудова деталі\WindowsFormsSOLIDWORKSApp17\WindowsFormsSOLIDWORKSApp17\obj\Debug\WindowsFormsSOLIDWORKSApp17.csproj.GenerateResource.cache
+C:\Users\Sergiy\Desktop\KURSOVA\Автоматизована побудова деталі\WindowsFormsSOLIDWORKSApp17\WindowsFormsSOLIDWORKSApp17\obj\Debug\WindowsFormsSOLIDWORKSApp17.csproj.CoreCompileInputs.cache
+C:\Users\Sergiy\Desktop\KURSOVA\Автоматизована побудова деталі\WindowsFormsSOLIDWORKSApp17\WindowsFormsSOLIDWORKSApp17\obj\Debug\WindowsFormsSOLIDWORKSApp17.exe
+C:\Users\Sergiy\Desktop\KURSOVA\Автоматизована побудова деталі\WindowsFormsSOLIDWORKSApp17\WindowsFormsSOLIDWORKSApp17\obj\Debug\WindowsFormsSOLIDWORKSApp17.pdb
+C:\Users\Sergiy\Desktop\KURSOVA\Автоматизована побудова деталі\WindowsFormsSOLIDWORKSApp17\WindowsFormsSOLIDWORKSApp17\bin\Debug\WindowsFormsSOLIDWORKSApp17.exe.config
+C:\Users\Sergiy\Desktop\KURSOVA\Автоматизована побудова деталі\WindowsFormsSOLIDWORKSApp17\WindowsFormsSOLIDWORKSApp17\bin\Debug\WindowsFormsSOLIDWORKSApp17.exe
+C:\Users\Sergiy\Desktop\KURSOVA\Автоматизована побудова деталі\WindowsFormsSOLIDWORKSApp17\WindowsFormsSOLIDWORKSApp17\bin\Debug\WindowsFormsSOLIDWORKSApp17.pdb
